@@ -1,0 +1,6 @@
+com/h2rd/refactoring/usermanagement/UserDao.class
+com/h2rd/refactoring/web/UserResource.class
+com/h2rd/refactoring/web/UserResourceApi.class
+com/h2rd/refactoring/web/UserResource$1.class
+com/h2rd/refactoring/usermanagement/UserDaoApi.class
+com/h2rd/refactoring/usermanagement/User.class
